@@ -43,4 +43,6 @@ Tento repozitář obsahuje ukázky mých prací z různých oblastí informatiky
 - **Základy SQL**  
   - Jednoduché úkoly na manipulaci s databázemi.  
   - Příklady dotazů, vytváření tabulek a práce s daty.
- 
+
+
+ asljdliawnlianliwnlains
