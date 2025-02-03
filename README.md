@@ -44,4 +44,3 @@ Tento repozitář obsahuje ukázky mých prací z různých oblastí informatiky
   - Jednoduché úkoly na manipulaci s databázemi.  
   - Příklady dotazů, vytváření tabulek a práce s daty.
  
-Toto jsou pouze ukázky prací.
